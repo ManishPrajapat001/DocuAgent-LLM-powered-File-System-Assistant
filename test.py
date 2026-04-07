@@ -1,4 +1,5 @@
 from fs_tools import read_file
+from fs_tools import search_in_file
 
 files = [
     "test_files/sample.txt",
@@ -6,9 +7,13 @@ files = [
     "test_files/Resume.docx"
 ]
 
+print(search_in_file("test_files/harshibar_s_resume.pdf", "python"))
+print(search_in_file("test_files/Resume.docx", "Python"))
+
 for file in files:
     print(f"\n--- Testing: {file} ---")
     result = read_file(file)
+    
     
     print("Status:", result["status"])
     

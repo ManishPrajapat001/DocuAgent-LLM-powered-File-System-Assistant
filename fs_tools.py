@@ -78,8 +78,10 @@ def read_file(filepath: str) -> dict:
         # DOCX
         elif filepath.endswith(".docx"):
             doc = docx.Document(filepath)
-            content = []#"\n".join([para.text for para in doc.paragraphs])
-            # Extract paragraphs
+            content = []                           #"\n".join([para.text for para in doc.paragraphs])
+
+
+        # Extract paragraphs
         for para in doc.paragraphs:
             if para.text.strip():
                 content.append(para.text)
@@ -93,7 +95,7 @@ def read_file(filepath: str) -> dict:
             return {
                 "status": "success",
                 "data": {
-                    "content": content,
+                    "content": "\n".join(content),
                     "type": "docx"
                 }
             }
@@ -114,3 +116,36 @@ def read_file(filepath: str) -> dict:
         }
     
 
+def search_in_file(file_path: str, keyword: str) -> dict:
+    try:
+        # Step 1: read file using existing function
+        file_result = read_file(file_path)
+
+        if file_result["status"] == "error":
+            return file_result
+
+        content = file_result["data"]["content"]
+
+        # Step 2: split into lines
+        lines = content.split("\n")
+
+        matches = []
+
+        # Step 3: search (case-insensitive)
+        for i, line in enumerate(lines):
+            if keyword.lower() in line.lower():
+                matches.append({
+                    "line_number": i + 1,
+                    "match": line.strip()
+                })
+
+        return {
+            "status": "success",
+            "data": matches
+        }
+
+    except Exception as e:
+        return {
+            "status": "error",
+            "error": str(e)
+        }
