@@ -1,0 +1,26 @@
+Sneha Patel  
+Email: sneha.patel@email.com | Phone: +91-9090909090 | Location: Ahmedabad, India  
+
+PROFESSIONAL SUMMARY  
+Data Analyst with strong expertise in data visualization and machine learning. Experienced in deriving insights from large datasets.
+
+SKILLS  
+Python, Pandas, NumPy, SQL, Power BI, Machine Learning  
+
+EXPERIENCE  
+Data Analyst — DataInsights Pvt Ltd | Mar 2022 – Present  
+- Analyzed datasets of 1M+ records to generate business insights  
+- Built dashboards using Power BI improving decision-making speed  
+- Automated reporting processes saving 10+ hours weekly  
+
+PROJECTS  
+Sales Prediction Model  
+- Built regression model with 85% accuracy  
+- Used Python and scikit-learn  
+
+Customer Segmentation  
+- Applied clustering techniques to segment users  
+- Improved targeted marketing campaigns  
+
+EDUCATION  
+B.Sc in Data Science — GHI University (2022)

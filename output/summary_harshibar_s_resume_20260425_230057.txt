@@ -1,0 +1,44 @@
+**Harshibar**  
+Phone: 555.555.5555 | Email: hello@email.com | YouTube: harshibar | U.S. Citizen  
+
+**Summary:**  
+Dynamic content creator and software engineer with a proven track record in video production, software development, and project management. Experienced in growing a YouTube channel to 60,000 subscribers through strategic content creation and A/B testing. Demonstrated ability to enhance productivity and efficiency in tech environments, with a strong background in front-end development and cross-functional collaboration. Adept at mentoring and designing innovative solutions that drive success.
+
+**Key Skills:**
+- YouTube Content Creation & Marketing
+- Software Development (Java, Python)
+- A/B Testing & Data Analysis
+- Project Management & Workflow Optimization
+- Cross-Functional Team Leadership
+- Mentorship & Educational Consulting
+
+**Experience:**
+
+**YouTube Creator**  
+San Francisco, CA | Aug 2019 – Present  
+- Developed 80+ videos on tech and productivity, achieving significant audience growth.
+- Implemented A/B testing strategies, increasing video impressions by 2.5 million in three months.
+- Designed a Notion workflow to enhance video production efficiency by 20%.
+- Collaborated with brands for sponsorships, expanding outreach.
+
+**Software Engineer, Google Verily**  
+San Francisco, CA | Aug 2018 – Sept 2019  
+- Led front-end development for a cancer detection dashboard, processing 50,000 blood samples.
+- Rebuilt a Quality Control product, saving $1M annually through stakeholder collaboration.
+- Developed a lab workflow tool, increasing efficiency by 40%.
+
+**Software Engineering Intern, Amazon**  
+Seattle, WA | May 2017 – Aug 2017  
+- Contributed to the Search Customer Experience Team, enhancing search features for over 2M users.
+- Developed back-end services in Java to support user interface improvements.
+
+**Projects:**
+- **Hyku Consulting:** Mentored 15 students to top U.S. boarding schools with a 100% success rate.
+- **Minimal Icon Pack:** Designed and marketed over 100 minimal icons, generating $250 in sales.
+- **CommonIntern:** Created a Python script for automated job applications, achieving 500 stars on GitHub.
+
+**Education:**  
+Wellesley College (details not provided)  
+
+**Key Strengths:**  
+Creative problem solver with a strong technical foundation, excellent communication skills, and a passion for mentoring and education.

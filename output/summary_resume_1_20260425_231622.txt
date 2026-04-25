@@ -1,0 +1,26 @@
+**Rahul Sharma**  
+Email: rahul.sharma@email.com | Phone: +91-9876543210 | Location: Bangalore, India  
+
+**Professional Summary**  
+Dedicated Backend Engineer with over 2 years of experience in developing scalable APIs and microservices using Python and Flask. Expertise in performance optimization and enhancing system reliability.
+
+**Skills**  
+- Programming Languages: Python  
+- Frameworks: Flask, FastAPI  
+- Databases: PostgreSQL, Redis  
+- Tools: Docker  
+- API Development: REST APIs  
+
+**Experience**  
+**Software Engineer** — TechNova Pvt Ltd | Jul 2023 – Present  
+- Designed and implemented REST APIs managing approximately 50,000 daily requests.  
+- Achieved a 30% reduction in API response time through effective query optimization and caching strategies.  
+- Integrated third-party payment systems, including Razorpay and Stripe.  
+- Collaborated with frontend teams to deliver comprehensive end-to-end features.  
+
+**Projects**  
+- **Inventory Management System**: Developed backend using Flask and PostgreSQL, incorporating role-based access control and a reporting dashboard.  
+- **Chatbot for Customer Support**: Created an NLP-based chatbot in Python, resulting in a 20% decrease in manual support queries.  
+
+**Education**  
+B.Tech in Computer Science — XYZ University (2023)  

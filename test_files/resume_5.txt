@@ -1,0 +1,24 @@
+Arjun Singh  
+Email: arjun.singh@email.com | Phone: +91-9871234560 | Location: Hyderabad, India  
+
+PROFESSIONAL SUMMARY  
+DevOps Engineer with experience in CI/CD pipelines, containerization, and cloud infrastructure. Focused on automation and system reliability.
+
+SKILLS  
+Docker, Kubernetes, Jenkins, AWS, Linux, Terraform  
+
+EXPERIENCE  
+DevOps Engineer — InfraOps Technologies | Feb 2021 – Present  
+- Designed CI/CD pipelines reducing deployment time by 50%  
+- Managed Kubernetes clusters for production workloads  
+- Automated infrastructure provisioning using Terraform  
+
+PROJECTS  
+Automated Deployment Pipeline  
+- Built Jenkins pipeline for continuous integration and delivery  
+
+Kubernetes Cluster Setup  
+- Configured and managed scalable container orchestration  
+
+EDUCATION  
+B.Tech in Computer Science — JKL University (2021)

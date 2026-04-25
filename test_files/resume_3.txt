@@ -1,0 +1,25 @@
+Amit Kumar  
+Email: amit.kumar@email.com | Phone: +91-9988776655 | Location: Pune, India  
+
+PROFESSIONAL SUMMARY  
+Full Stack Developer with experience in MERN stack and cloud deployment. Skilled in building scalable web applications and RESTful services.
+
+SKILLS  
+MongoDB, Express.js, React, Node.js, AWS, Git  
+
+EXPERIENCE  
+Full Stack Developer — CloudTech Solutions | Jan 2022 – Present  
+- Built scalable web applications serving 10K+ users  
+- Developed REST APIs and integrated frontend with React  
+- Deployed applications on AWS EC2 and S3  
+
+PROJECTS  
+Job Portal Platform  
+- Implemented authentication and job recommendation features  
+- Used MongoDB for scalable data storage  
+
+Blog Platform  
+- Developed full-stack blogging app with user authentication and CRUD operations  
+
+EDUCATION  
+B.Tech in Computer Engineering — DEF Institute (2021)
